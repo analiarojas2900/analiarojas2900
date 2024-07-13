@@ -23,7 +23,7 @@ Soy una desarrolladora apasionado con experiencia en **Python**, **JavaScript**,
 
 
 ## Proyectos destacados
-* **Python**: [Proyecto de Análisis de Datos](enlace al proyecto) - Un proyecto de análisis de datos utilizando Pandas y NumPy.
+* **Python**: [Proyecto de Análisis de Datos] - Un proyecto de análisis de datos utilizando Pandas y NumPy.
 
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
