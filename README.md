@@ -28,10 +28,6 @@ Soy una desarrolladora apasionado con experiencia en **Python**, **JavaScript**,
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-* **JavaScript**:- Una aplicación web de juego utilizando React y Redux.
-
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
 * **HTML/CSS**: - Un sitio web personalizado utilizando Bootstrap y CSS Grid.
 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS Grid](https://img.shields.io/badge/CSS%20Grid-239120?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +35,7 @@ Soy una desarrolladora apasionado con experiencia en **Python**, **JavaScript**,
   
 ## Habilidades
 * **Lenguajes de programación**: Python, JavaScript, HTML/CSS, ionic
-* **Frameworks y bibliotecas**: React, Redux, Pandas, NumPy, Bootstrap
+* **Frameworks y bibliotecas**: Pandas, NumPy, Bootstrap
 * **Herramientas**: Git, GitHub, Visual Studio Code, Google Cloud Plataform
 
 ## Enlaces
